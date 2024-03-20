@@ -1,8 +1,5 @@
 {
     "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./jasper_drill_model_x"
-    },
     "display": {
         "thirdperson": {
             "rotation": [ 0, 90, -45 ],

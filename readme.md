@@ -2,7 +2,7 @@
 # Skyblock Overhaul
 ### Description
 Skyblock Overhaul is a Minecraft resource pack for Hypixel Skyblock. Your feedback is important to the SBOV development team. Join [our discord](http://discord.gg/MGpAEZyKp5) to leave feedback and report bugs.
-For the 1.20 version of pack, due to troubles porting it to OptiFine, you should use [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+For the 1.20 version of pack, you should use OptiFine with Forge, or preferably CIT Resewn with Fabric (https://modrinth.com/mod/cit-resewn)
 
 ### Website
 https://skyblock-overhaul.github.io/Website/index.html
